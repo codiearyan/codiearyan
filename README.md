@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I like watching anime and create new stuff**
 
-<img align="right" height="150" src="https://imgflip.com/gif/8hh6vv"  />
+<img align="right" height="150" src="https://pin.it/2XYAfUqy3"  />
 
 
 <h3 align="left">Connect with me:</h3>
