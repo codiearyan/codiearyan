@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I like watching anime and create new stuff**
 
-<img align="right" height="170" width="300" src="meme_image.jpg"  alt="img"/>
+<img align="right" height="170" width="300" src="meme_image.jpg"  style="border-radius : 20px;" alt="img"/>
 
 
 <h3 align="left">Connect with me:</h3>
