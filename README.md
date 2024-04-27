@@ -50,7 +50,7 @@
 
 <img id="git-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" width="40" height="40" />
 
-<img id="github-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="git logo" width="40" height="40" />
+<img id="javafx-icon" src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" alt="javafx logo" width="40" height="40" />
 
 </div>
 
