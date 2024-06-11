@@ -1,11 +1,11 @@
 <h1 align="center">Hello,I am Aryan Bhati 😎</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🌱 I’m currently learning **JAVA(DSA)**
+- 🌱 I’m currently learning **BACKEND-DEVELOPMENT**
 
-- 👯 Language/OS I know **JAVA, C, HTML & CSS LANGUAGES**
+- 👯 Language/OS I know **JAVA, C, HTML & CSS LANGUAGES, JAVASCRIPT, REACTJS, EXPRESS**
 
-- 💬 Ask me about **JAVA DSA**
+- 💬 Ask me about **WEB DEVELOPMENT**
 
 - 📫 How to reach me **codiearyan07@gmail.com**
 
