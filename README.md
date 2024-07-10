@@ -16,7 +16,7 @@
 >
 
 <p align="center" width="100%">
-<img align="center" width="80%" style="object-fit: cover;" src="meme_image.jpg" alt="img"  height="220" />
+<img align="center" width="50%" style="object-fit: cover;" src="meme_image.jpg" alt="img"  height="220" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
