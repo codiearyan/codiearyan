@@ -1,7 +1,7 @@
 <h1 align="center">Hello,I am Aryan Bhati 😎</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 Language/OS I know **JAVASCRIPT, JAVA, C**
 
