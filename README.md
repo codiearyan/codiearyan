@@ -62,9 +62,9 @@
 
  <p align="left" >
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanBhati7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"  width="100%" height="220" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codiearyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"  width="100%" height="220" alt="languages graph"  />
 </p>
 
-<p align="left" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanbhati7&theme=dark&show_icons=true&locale=en" alt="aryanbhati7"  width="100%"  height="220" /></p>
+<p align="left" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=codiearyan&theme=dark&show_icons=true&locale=en" alt="aryanbhati7"  width="100%"  height="220" /></p>
 
-<p align="left" ><img src="https://streak-stats.demolab.com?user=AryanBhati7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  width="100%" alt="streak graph"  height="220"  /> </p>
+<p align="left" ><img src="https://streak-stats.demolab.com?user=codiearyan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  width="100%" alt="streak graph"  height="220"  /> </p>
