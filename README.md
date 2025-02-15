@@ -7,7 +7,7 @@
     <a href="https://x.com/codiearyan" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-FF8B3D?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
     </a>
-    <a href="https://portfolio-codiearyan.vercel.app" target="_blank">
+    <a href="https://aryancrafts.tech" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF8B3D?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
     </a>
   </div>
