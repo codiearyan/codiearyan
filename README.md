@@ -42,8 +42,8 @@
 ## Github Stats
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=codiearyan&theme=dark&show_icons=true&locale=en" alt="aryanbhati7" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=codiearyan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="48%" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codiearyan&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="aryanbhati7" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=codiearyan&theme=dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="streak graph" />
 </div>
 
 ## Github Activity
